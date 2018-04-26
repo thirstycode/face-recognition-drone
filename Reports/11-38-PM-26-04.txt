@@ -1,0 +1,3 @@
+============  This Is Log Report Of Drone ============
+We Found Person Named : Elvis In 0 Frames.
+We Found Person Named : Pratik In 159 Frames.
