@@ -13,7 +13,7 @@ First Open Command Shell / Terminal :
 OR
 2. python drone.py
 ```
-#### Add People's Database Of Face:
+#### How To Add People's Database Of Face:
   - In Folder "training-data" make new folder names 's*', where * is number of this face. Means if there is database of 3 faces, folder name should be s1,s2 and s3
   - Then in repective folder add images of that person starting from 1.jpg to n.jpg . suppose you add 5 images of a person in s3 then the names of images should be 1.jpg, 2.jpg, 3.jpg, 4.jpg and 5.jpg.
   - Add **person's name** in **name.txt**.
