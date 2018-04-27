@@ -1,6 +1,6 @@
 # face-recognition-drone
 [![built with Python3](https://img.shields.io/badge/built%20with-Python3-red.svg)](https://www.python.org/)<br>
-Recognizes Peoples From Drone Cameras
+Recognizes Peoples From Drone Cameras<br>
 ### Installation:
 First Open Command Shell / Terminal :
 
